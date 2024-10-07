@@ -29,9 +29,9 @@ The project is divided into three key subtasks:
 
 Libraries Used:
 
-Pandas: For data manipulation and storage in csv
-Numpy: For numerical operations
-sklearn: For text vectorization
-nltk: For preprocessing techniques such as tokenization, stopword removal, stemming and lemmatization.
-Huggingface Transformers: For NLP tasks such as text summarization, word frequency analysis and sentiment analysis.
+- Pandas: For data manipulation and storage in csv
+- Numpy: For numerical operations
+- sklearn: For text vectorization
+- nltk: For preprocessing techniques such as tokenization, stopword removal, stemming and lemmatization.
+- Huggingface Transformers: For NLP tasks such as text summarization, word frequency analysis and sentiment analysis.
 
