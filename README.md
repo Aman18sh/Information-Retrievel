@@ -7,6 +7,7 @@ Project Overview:
 The project is divided into three key subtasks:
 
 1. Web scraping and CSV Conversion
+- News articles are scrapped from - https://www.indiatoday.in/india
 - Extracting the required text data and meta data from the articles.
 - Converting the extracted information into a stuctural CSV format
 
